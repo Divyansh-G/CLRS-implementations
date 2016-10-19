@@ -1,2 +1,2 @@
 # CLRS-implementations
-Implementations of algorithms in CLRS in C and Python
+Implementations of CLRS algorithms in C and Python3.
